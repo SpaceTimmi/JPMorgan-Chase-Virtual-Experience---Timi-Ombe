@@ -4,7 +4,7 @@ This repository includes all the tasks with code changes and the uploaded patch 
 
 ## About the Course:
 
-https://www.insidesherpa.com/virtual-internships/prototype/R5iK7HMxJGBgaSbvk/JP-Morgan-Banking-Technology-Virtual-Program
+https://www.theforage.com/virtual-internships/prototype/R5iK7HMxJGBgaSbvk/JP-Morgan-Banking-Technology-Virtual-Program?ref=ZasDhfRLTK4bpmbC9
 
 ## Course Completion Certificate:
 
