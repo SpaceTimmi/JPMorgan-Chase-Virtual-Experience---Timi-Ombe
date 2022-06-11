@@ -8,4 +8,4 @@ https://www.insidesherpa.com/virtual-internships/prototype/R5iK7HMxJGBgaSbvk/JP-
 
 ## Course Completion Certificate:
 
-https://github.com/SpaceTimmi/JPMorgan-Chase-Virtual-Experience---Timi-Ombe/blob/main/R5iK7HMxJGBgaSbvk_J.P.%20Morgan_ZasDhfRLTK4bpmbC9_1654976966382_completion_certificate.pdf
+![](https://github.com/SpaceTimmi/JPMorgan-Chase-Virtual-Experience---Timi-Ombe/blob/main/jpmc-cert.JPG)
